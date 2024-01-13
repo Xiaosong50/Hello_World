@@ -1,2 +1,2 @@
 # Hello World
-Welcame to my world.
+Welcome to my world.
